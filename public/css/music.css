@@ -1,0 +1,9 @@
+body.music {
+    background-image: url('/img/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 5%;
+}
+
+.main--links ul li a{
+    margin-left: 30px
+}
